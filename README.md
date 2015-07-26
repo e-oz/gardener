@@ -1,2 +1,2 @@
-# gardener
-Jasmine Helper
+# Gardener
+Protractor Helper for Jasmine

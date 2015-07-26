@@ -1,0 +1,23 @@
+{
+  "name": "gardener",
+  "version": "1.0.0",
+  "description": "Jasmine Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-oz/gardener.git"
+  },
+  "keywords": [
+    "jasmine",
+    "e2e"
+  ],
+  "author": "OZ <normandiggs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-oz/gardener/issues"
+  },
+  "homepage": "https://github.com/e-oz/gardener#readme"
+}
