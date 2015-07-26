@@ -1,7 +1,7 @@
 {
-  "name": "gardener",
+  "name": "protractor-gardener",
   "version": "1.0.0",
-  "description": "Jasmine Helper",
+  "description": "Protractor Helper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "jasmine",
-    "e2e"
+    "e2e",
+    "protractor"
   ],
   "author": "OZ <normandiggs@gmail.com>",
   "license": "MIT",
